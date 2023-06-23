@@ -15,7 +15,7 @@ trim_trailing_whitespace = true
 insert_final_newline = true
 
 # License header
-file_header_template = Copyright (c) StoneyDSP.\nLicensed under the MIT License.
+file_header_template = Copyright (c) 2003-2019 University of Illinois at Urbana-Champaign.\nAll rights reserved.
 
 [*.{yml,yaml}]
 indent_style = space
